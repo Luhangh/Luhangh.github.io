@@ -1,5 +1,6 @@
 
-
+# Install the tutorial
+---
 # Install Hexo
 
 Install Node.js  and Git
@@ -72,7 +73,7 @@ You can decide to show post tags or not.
 ```yml
 home_posts_tag: true
 ```
- ![tag](https://raw.githubusercontent.com/huweihuang/hexo-theme-huweihuang/master/source/img/article/tag.png)
+
 ### Markdown render
 My markdown render engine plugin is [hexo-renderer-markdown-it](https://github.com/celsomiranda/hexo-renderer-markdown-it).
 ```yml
