@@ -2222,12 +2222,11 @@ footer.main-footer:after {
 }
 
 footer.main-footer .footer-text {
-    float: left
+    text-align: center;
 }
 
 footer.main-footer .go-up {
     float: right;
-    margin-bottom: 20px
 }
 
 footer.main-footer .go-up a {
